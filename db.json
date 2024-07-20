@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "2daa",
+      "name": "Vuqarw",
+      "surname": "Aslanov",
+      "age": "24",
+      "score": "99"
+    },
+    {
+      "id": "315c",
+      "name": "Elvin",
+      "surname": "Camalzade",
+      "age": 0,
+      "score": 0
+    },
+    {
+      "id": "f39a",
+      "name": "zf",
+      "surname": "dfdsf",
+      "age": "23",
+      "score": "32"
+    },
+    {
+      "id": "abf5",
+      "name": "we",
+      "surname": "ew",
+      "age": "1",
+      "score": "1"
+    },
+    {
+      "id": "f47c",
+      "name": "zf",
+      "surname": "dfdsf",
+      "age": "1",
+      "score": "1"
+    }
+  ]
+}
